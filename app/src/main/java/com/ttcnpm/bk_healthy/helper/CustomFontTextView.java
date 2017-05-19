@@ -1,0 +1,28 @@
+package com.ttcnpm.bk_healthy.helper;
+
+import android.content.Context;
+import android.util.AttributeSet;
+import android.widget.TextView;
+
+public class CustomFontTextView extends TextView {
+
+    public static final String ANDROID_SCHEMA = "http://schemas.android.com/apk/res/android";
+
+    public CustomFontTextView(Context context) {
+        super(context);
+
+        CustomFontUtils.applyCustomFont(this, context, null);
+    }
+
+    public CustomFontTextView(Context context, AttributeSet attrs) {
+        super(context, attrs);
+
+        CustomFontUtils.applyCustomFont(this, context, attrs);
+    }
+
+    public CustomFontTextView(Context context, AttributeSet attrs, int defStyle) {
+        super(context, attrs, defStyle);
+
+        CustomFontUtils.applyCustomFont(this, context, attrs);
+    }
+}

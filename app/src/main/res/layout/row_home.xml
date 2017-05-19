@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.ttcnpm.bk_healthy.helper.CircularImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/list_foot"
+        android:id="@+id/menu_image"
+        android:layout_gravity="center_horizontal" />
+
+    <com.ttcnpm.bk_healthy.helper.CustomFontTextView
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/menu_name"
+        android:text="CREATE REPORT"
+        android:textColor="@color/blue_dark"
+        android:textSize="15dp"
+        android:textAlignment="center"
+        android:gravity="center_vertical" />
+</LinearLayout>

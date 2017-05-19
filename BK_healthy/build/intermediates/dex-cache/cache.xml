@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_015829edf3fe0b6135dfe734c8a0e35f5e39b6f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Crown\.android\build-cache\31910c09f78b56a8d06214eee3387ff2948166a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_350e22b386396f9942850eba1bf91c16fc18aab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Crown\.android\build-cache\1df3b539babe7e5ebd6065f8a0520166d9bfbbff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52d91d39c599c5e7d353070abca3bd93ac08f658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Crown\.android\build-cache\20b77296ee1398e4dfb4e9f9c349466478ae5554\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b033ebd706b1f32406ef61578d8a831cebce72b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Crown\.android\build-cache\f98dbe05a174a911bcbf1160c27c73fbd7733506\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9cdc55f8667de0011ce2ce46ed407a48d4766d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="350cabbbf76f170ee2026b0d60c86f1f45a51131">
+        <dex dex="D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fbb60cfb6a2a071208f1af0452620aae6fa23696\classes.dex" />
+    </item>
+
+</items>

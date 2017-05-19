@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CropImageView">
+        <attr format="reference" name="imgSrc"/>
+        <attr name="cropMode">
+            <enum name="ratio_fit_image" value="0"/>
+            <enum name="ratio_4_3" value="1"/>
+            <enum name="ratio_3_4" value="2"/>
+            <enum name="ratio_1_1" value="3"/>
+            <enum name="ratio_16_9" value="4"/>
+            <enum name="ratio_9_16" value="5"/>
+            <enum name="ratio_free" value="6"/>
+            <enum name="ratio_custom" value="7"/>
+            <enum name="circle" value="8"/>
+        </attr>
+        <attr format="color" name="backgroundColor"/>
+        <attr format="color" name="overlayColor"/>
+        <attr format="color" name="frameColor"/>
+        <attr format="color" name="handleColor"/>
+        <attr format="color" name="guideColor"/>
+        <attr name="guideShowMode">
+            <enum name="show_always" value="1"/>
+            <enum name="show_on_touch" value="2"/>
+            <enum name="not_show" value="3"/>
+        </attr>
+        <attr name="handleShowMode">
+            <enum name="show_always" value="1"/>
+            <enum name="show_on_touch" value="2"/>
+            <enum name="not_show" value="3"/>
+        </attr>
+        <attr format="dimension" name="handleSize"/>
+        <attr format="dimension" name="touchPadding"/>
+        <attr format="dimension" name="minFrameSize"/>
+        <attr format="dimension" name="frameStrokeWeight"/>
+        <attr format="dimension" name="guideStrokeWeight"/>
+        <attr format="boolean" name="cropEnabled"/>
+        <attr format="float" name="initialFrameScale"/>
+    </declare-styleable>
+    <declare-styleable name="CustomFontTextView">
+        <attr format="string" name="font"/>
+        <attr format="integer" name="textStyle"/>
+    </declare-styleable>
+    <declare-styleable name="supergridview">
+        <attr format="integer" name="supergv__columns"/>
+        <attr format="dimension" name="supergv__verticalSpacing"/>
+        <attr format="dimension" name="supergv__horizontalSpacing"/>
+    </declare-styleable>
+    <declare-styleable name="superlistview">
+        <attr format="reference" name="superlv__listSelector"/>
+        <attr format="reference" name="superlv__empty"/>
+        <attr format="reference" name="superlv__moreProgress"/>
+        <attr format="reference" name="superlv__progress"/>
+        <attr format="reference" name="superlv__listDivider"/>
+        <attr format="dimension" name="superlv__listDividerHeight"/>
+        <attr format="boolean" name="superlv__listClipToPadding"/>
+        <attr format="dimension" name="superlv__listPadding"/>
+        <attr format="dimension" name="superlv__listPaddingTop"/>
+        <attr format="dimension" name="superlv__listPaddingBottom"/>
+        <attr format="dimension" name="superlv__listPaddingLeft"/>
+        <attr format="dimension" name="superlv__listPaddingRight"/>
+        <attr name="superlv__scrollbarStyle">
+            <flag name="insideOverlay" value="0x0"/>
+            <flag name="insideInset" value="0x01000000"/>
+            <flag name="outsideOverlay" value="0x02000000"/>
+            <flag name="outsideInset" value="0x03000000"/>
+        </attr>
+
+        <!-- Layout to build a superList. Default values are  @layout/view_progress_listview for a list and
+         @layout/view_progress_gridview for a grid-->
+        <attr format="reference" name="superlv_mainLayoutID"/>
+    </declare-styleable>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>

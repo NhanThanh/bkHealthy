@@ -1,0 +1,7 @@
+#Wed May 03 14:35:22 ICT 2017
+base.0=D\:\\BK\\1\\HK2N3\\ttcpm\\BitBucket\\final\\trunk\\Group31-BkHealthy\\BK_healthy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fbb60cfb6a2a071208f1af0452620aae6fa23696
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\BK\\1\\HK2N3\\ttcpm\\BitBucket\\final\\trunk\\Group31-BkHealthy\\BK_healthy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_015829edf3fe0b6135dfe734c8a0e35f5e39b6f0\\classes.dex
+base.1=D\:\\BK\\1\\HK2N3\\ttcpm\\BitBucket\\final\\trunk\\Group31-BkHealthy\\BK_healthy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_015829edf3fe0b6135dfe734c8a0e35f5e39b6f0
+file.0=D\:\\BK\\1\\HK2N3\\ttcpm\\BitBucket\\final\\trunk\\Group31-BkHealthy\\BK_healthy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fbb60cfb6a2a071208f1af0452620aae6fa23696\\classes.dex

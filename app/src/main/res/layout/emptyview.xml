@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/empty_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <com.ttcnpm.bk_healthy.helper.CustomFontTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="155dp"
+            android:layout_marginBottom="15dp"
+            android:id="@+id/list_view_empty_message"
+            android:text="There are no data."
+            android:textSize="15dp"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+</RelativeLayout>

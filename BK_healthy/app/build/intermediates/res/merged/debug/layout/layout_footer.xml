@@ -1,0 +1,121 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_horizontal"
+    android:id="@+id/footer_wrapper"
+    android:orientation="horizontal">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:paddingTop="1dp"
+        android:background="@color/grey_border"
+        android:stretchColumns="0,1,2,3">
+
+        <TableRow
+            android:background="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="49dp">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:id="@+id/footer_home">
+                <ImageView
+                    android:id="@+id/footer_home_image"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_marginTop="-10dp"
+                    android:src="@drawable/home_h" />
+
+                <com.ttcnpm.bk_healthy.helper.CustomFontTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false"
+                    android:text="Home"
+                    android:id="@+id/footer_home_text"
+                    android:layout_marginTop="-6dp"
+                    android:textAlignment="center"
+                    app:textStyle="10"
+                    android:textSize="14dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:id="@+id/footer_open">
+                <ImageView
+                    android:id="@+id/footer_open_image"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_marginTop="-10dp"
+                    android:src="@drawable/home_h" />
+
+                <com.ttcnpm.bk_healthy.helper.CustomFontTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false"
+                    android:text="Test"
+                    android:id="@+id/footer_test_1"
+                    android:layout_marginTop="-6dp"
+                    android:textAlignment="center"
+                    app:textStyle="10"
+                    android:textSize="14dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:id="@+id/footer_past">
+                <ImageView
+                    android:id="@+id/footer_past_image"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_marginTop="-10dp"
+                    android:src="@drawable/home_h" />
+
+                <com.ttcnpm.bk_healthy.helper.CustomFontTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false"
+                    android:text="Test"
+                    android:id="@+id/footer_test"
+                    android:layout_marginTop="-6dp"
+                    android:textAlignment="center"
+                    app:textStyle="10"
+                    android:textSize="14dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal"
+                android:id="@+id/footer_profile">
+                <ImageView
+                    android:id="@+id/footer_profile_image"
+                    android:layout_width="45dp"
+                    android:layout_height="42dp"
+                    android:layout_marginTop="-7dp"
+                    android:src="@drawable/profile_h" />
+
+                <com.ttcnpm.bk_healthy.helper.CustomFontTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false"
+                    android:text="Profile"
+                    android:id="@+id/footer_profile_text"
+                    android:layout_marginTop="-6dp"
+                    android:textAlignment="center"
+                    app:textStyle="10"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

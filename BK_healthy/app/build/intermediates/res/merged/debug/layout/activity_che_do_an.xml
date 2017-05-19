@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:gravity="center_horizontal"
+android:orientation="vertical"
+android:background="@color/white"
+tools:context=".views.HomeActivity">
+
+<include layout="@layout/layout_header" />
+
+<Button
+    android:id="@+id/btnNguoiGia"
+    style="@android:style/Widget.DeviceDefault.Button.Inset"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignEnd="@+id/btnNguoiBenh"
+    android:layout_alignLeft="@+id/btnNguoiBenh"
+    android:layout_alignRight="@+id/btnNguoiBenh"
+    android:layout_alignStart="@+id/btnNguoiBenh"
+    android:layout_below="@+id/btnNguoiBenh"
+    android:layout_marginTop="20dp"
+    android:text="Người già" />
+
+<Button
+    android:id="@+id/btnNguoiBenh"
+    style="@android:style/Widget.DeviceDefault.Button.Inset"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Người bệnh"
+    android:layout_below="@+id/btnNguoiTangCan"
+    android:layout_alignLeft="@+id/btnNguoiTangCan"
+    android:layout_alignStart="@+id/btnNguoiTangCan"
+    android:layout_alignRight="@+id/btnNguoiTangCan"
+    android:layout_alignEnd="@+id/btnNguoiTangCan" />
+
+<Button
+    android:id="@+id/btnNguoiTapGym"
+    style="@android:style/Widget.DeviceDefault.Button.Inset"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Người tập gym"
+    android:layout_alignParentTop="true"
+    android:layout_alignLeft="@+id/btnNguoiAnKieng"
+    android:layout_alignStart="@+id/btnNguoiAnKieng"
+    android:layout_alignRight="@+id/btnNguoiTangCan"
+    android:layout_alignEnd="@+id/btnNguoiTangCan" />
+
+<Button
+    android:id="@+id/btnNguoiAnKieng"
+    style="@android:style/Widget.DeviceDefault.Button.Inset"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Người ăn kiêng"
+    android:layout_below="@+id/btnNguoiTapGym"
+    android:layout_alignLeft="@+id/btnTreEm"
+    android:layout_alignStart="@+id/btnTreEm"
+    android:layout_alignRight="@+id/btnNguoiTangCan"
+    android:layout_alignEnd="@+id/btnNguoiTangCan" />
+
+<Button
+    android:id="@+id/btnTreEm"
+    style="@android:style/Widget.DeviceDefault.Button.Inset"
+    android:layout_width="130dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/btnNguoiAnKieng"
+    android:elevation="0dp"
+    android:text="TRẺ EM" />
+
+<Button
+    android:id="@+id/btnNguoiTangCan"
+    style="@android:style/Widget.DeviceDefault.Button.Inset"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Người tăng cân"
+    android:layout_below="@+id/btnTreEm"
+    android:layout_alignLeft="@+id/btnTreEm"
+    android:layout_alignStart="@+id/btnTreEm" />
+
+</LinearLayout>

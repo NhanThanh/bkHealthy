@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#EC1C24</color>
+    <color name="blue">#38a8f0</color>
+    <color name="blue_landing">#39a8f0</color>
+    <color name="blue_dark">#005095</color>
+    <color name="blue_light">#7FCDFF</color>
+    <color name="grey_border">#d9dadb</color>
+    <color name="grey_textfield">#a6a8ab</color>
+    <color name="window_background">#f9f9f9</color>
+    <color name="grey_background">#F8F8F8</color>
+    <color name="grey_text">#333333</color>
+    <color name="chat_message">#FFFBCE</color>
+    <color name="bg_facebook_login">#ff405E9A</color>
+    <color name="bg_transparent">#00000000</color>
+    <color name="bg_transparent_white">#bbffffff</color>
+    <color name="bg_transparent_black_80">#bb000000</color>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="views.bodyweightmainActivity">
+
+    <include layout="@layout/layout_header" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logo" />
+
+        <Button
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/btn_cobung"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="15dp"
+            android:text="Cơ bụng"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:background="@drawable/bg_button_big_blue" />
+
+        <Button
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/btn_than_tren"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="15dp"
+            android:text="Thân trên"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:background="@drawable/bg_button_big_blue" />
+
+        <Button
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/btn_than_duoi"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="15dp"
+            android:text="Thân dưới"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:background="@drawable/bg_button_big_blue" />
+
+    </LinearLayout>
+</LinearLayout>

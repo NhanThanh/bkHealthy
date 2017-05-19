@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:8:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Crown\.android\build-cache\d551e58379ce9b099dec8d28d4f0be122966907b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\Crown\.android\build-cache\1df3b539babe7e5ebd6065f8a0520166d9bfbbff\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Crown\.android\build-cache\821da2253e677863f07bbc4e5f6a24148e939efc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Crown\.android\build-cache\939f484a596e6e773f03a54973afa586004c72ad\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Crown\.android\build-cache\56413b1ead5f8823f9b1835597083faa66469f3b\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Crown\.android\build-cache\f98dbe05a174a911bcbf1160c27c73fbd7733506\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Crown\.android\build-cache\1cf20505ff20b4964fb3cf43f20ce211290a9f4d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Crown\.android\build-cache\99a850ebd651943fa34b177005ad5c4ff069b867\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Crown\.android\build-cache\6c4f598ca891ac6c5bbd79ebe1baef33b680163b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Crown\.android\build-cache\124ee20e7375e84743adef5713aa44a02e2cac05\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Crown\.android\build-cache\1984297bcb45f8eb4e61d223c7ed2604f81305e6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Crown\.android\build-cache\541268be55620e04dc8d4d0da685fcddf62cb552\output\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:9:9-68
+activity#com.ttcnpm.bk_healthy.MainActivity
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:19:27-73
+activity#com.ttcnpm.bk_healthy.views.WelcomeActivity
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:22:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:23:13-27:29
+category#android.intent.category.LAUNCHER
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.ttcnpm.bk_healthy.views.LoginActivity
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:29:9-31:39
+	android:label
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:30:13-48
+activity#com.ttcnpm.bk_healthy.views.RegisterActivity
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:32:9-34:40
+	android:label
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:33:13-51
+activity#com.ttcnpm.bk_healthy.views.HomeActivity
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:35:19-53
+activity#com.ttcnpm.bk_healthy.views.ListFood
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:36:9-61
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:36:19-49
+activity#com.ttcnpm.bk_healthy.views.CheDoAnActivity
+ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:37:9-68
+	android:name
+		ADDED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml:37:19-56
+uses-sdk
+INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Crown\.android\build-cache\d551e58379ce9b099dec8d28d4f0be122966907b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\Crown\.android\build-cache\1df3b539babe7e5ebd6065f8a0520166d9bfbbff\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Crown\.android\build-cache\821da2253e677863f07bbc4e5f6a24148e939efc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Crown\.android\build-cache\939f484a596e6e773f03a54973afa586004c72ad\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Crown\.android\build-cache\56413b1ead5f8823f9b1835597083faa66469f3b\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Crown\.android\build-cache\31910c09f78b56a8d06214eee3387ff2948166a2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Crown\.android\build-cache\f98dbe05a174a911bcbf1160c27c73fbd7733506\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Crown\.android\build-cache\1cf20505ff20b4964fb3cf43f20ce211290a9f4d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Crown\.android\build-cache\99a850ebd651943fa34b177005ad5c4ff069b867\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Crown\.android\build-cache\6c4f598ca891ac6c5bbd79ebe1baef33b680163b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Crown\.android\build-cache\124ee20e7375e84743adef5713aa44a02e2cac05\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Crown\.android\build-cache\1984297bcb45f8eb4e61d223c7ed2604f81305e6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Crown\.android\build-cache\541268be55620e04dc8d4d0da685fcddf62cb552\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Crown\.android\build-cache\20b77296ee1398e4dfb4e9f9c349466478ae5554\output\AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Crown\.android\build-cache\1df3b539babe7e5ebd6065f8a0520166d9bfbbff\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BK\1\HK2N3\ttcpm\BitBucket\final\trunk\Group31-BkHealthy\BK_healthy\app\src\main\AndroidManifest.xml

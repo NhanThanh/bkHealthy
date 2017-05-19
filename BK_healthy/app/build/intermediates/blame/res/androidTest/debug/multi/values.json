@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\BK\\1\\HK2N3\\ttcpm\\BitBucket\\final\\trunk\\Group31-BkHealthy\\BK_healthy\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Crown\\.android\\build-cache\\8da60f140e58dfe82e66724b478976b63b4351d8\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

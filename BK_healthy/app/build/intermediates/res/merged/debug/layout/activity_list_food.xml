@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".views.HomeActivity">
+
+    <include layout="@layout/layout_header" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:gravity="center_horizontal">
+        <com.ttcnpm.bk_healthy.helper.SuperGridview
+            xmlns:superlistview="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/grey_background"
+            superlistview:superlv__listClipToPadding="false"
+            superlistview:superlv__listDivider="@android:color/transparent"
+            superlistview:superlv__listDividerHeight="10dp"
+            superlistview:superlv__empty="@layout/emptyview"
+            superlistview:supergv__columns="2"
+            superlistview:superlv__moreProgress="@layout/view_progress_dialog"
+            superlistview:superlv__scrollbarStyle="outsideOverlay"></com.ttcnpm.bk_healthy.helper.SuperGridview>
+    </LinearLayout>
+
+</LinearLayout>

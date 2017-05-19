@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BK_healthy</string>
+    <string name="title_activity_abstract">AbstractActivity</string>
+
+    <string name="logo">BK_Healthy_logo</string>
+    <string name="title_activity_cobung_list">cobungListActivity</string>
+    <string name="title_activity_cobung">cobungActivity</string>
+    <string name="title_activity_thantren_list">thantrenListActivity</string>
+    <string name="title_activity_thantren">thantrenActivity</string>
+    <string name="title_activity_thanduoi_list">thanduoiListActivity</string>
+    <string name="title_activity_thanduoi">thanduoiActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="map_type_normal" >Normal</string>
+    <string name="map_type_none" >None</string>
+    <string name="map_type_terrain" >Terrain</string>
+    <string name="map_type_satelline" >Satelline</string>
+    <string name="map_type_hibrid" >Hibrid</string>
+</resources>

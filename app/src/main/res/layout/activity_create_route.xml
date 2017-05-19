@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="start point"
+        />
+    <EditText
+        android:id="@+id/startpoint_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="fill out your start point"
+        android:textSize="15sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ending point"
+        />
+    <EditText
+        android:id="@+id/endingpoint_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="fill out your ending point"
+        android:textSize="15sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="time"
+        />
+    <EditText
+        android:id="@+id/runningtime_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="time to complete your route"
+        android:textSize="15sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="date"
+        />
+    <EditText
+        android:id="@+id/runningdate_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="date"
+        android:textSize="15sp"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2"
+        android:layout_marginTop="20dp"
+        >
+
+        <Button
+            android:id="@+id/confirmroute_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CONFIRM"
+            android:textColor="#FFFFFF"
+            android:layout_weight="1"
+            android:background="@drawable/buttonshape"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
